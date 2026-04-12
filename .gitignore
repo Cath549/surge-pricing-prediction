@@ -1,0 +1,29 @@
+# Claude Code context — never committed
+CLAUDE.md
+
+# Local-only working files
+progress/
+learning_notes/
+
+# Raw data (too large / not ours to redistribute)
+data/raw/
+
+# Environment and secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
