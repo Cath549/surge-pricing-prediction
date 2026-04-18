@@ -2,10 +2,9 @@
 CLAUDE.md
 
 # Local-only working files
-progress/
 learning_notes/
 
-# Raw data (too large / not ours to redistribute)
+# Raw data (too large)
 data/raw/
 
 # Environment and secrets
